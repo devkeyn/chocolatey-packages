@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>zello</id>
+    <version>2.4</version>
+    <owners>keyn</owners>
+    <title>Zello 2.4 (Install)</title>
+    <authors>Zello Inc.</authors>
+    <projectUrl>https://zello.com/</projectUrl>
+    <iconUrl>https://zello.com/wp-content/uploads/2017/12/plain-114x114.png</iconUrl>
+    <copyright>2020 Zello Inc.</copyright>
+    <licenseUrl>https://zello.com/terms/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://support.zellowork.com/hc/en-us/sections/201386948-Windows-PC-</docsUrl>
+    <tags>zello voip voice phone conferencing voice-chat speak ptt</tags>
+    <summary>Zello is a push-to-talk app</summary>
+    <description>Zello is a push-to-talk app that connects frontline workers, teams, and communities through the power of live, human voice.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
